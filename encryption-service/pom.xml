@@ -12,7 +12,7 @@
 	<artifactId>encryption-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>encryption-service</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Encryption Service for QSafe</description>
 	<url/>
 	<licenses>
 		<license/>
